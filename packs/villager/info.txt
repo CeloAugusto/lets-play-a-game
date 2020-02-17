@@ -1,0 +1,2 @@
+Change user wallpaper to a random image on "wallpapers/".
+Play a random sound on "sounds/".
